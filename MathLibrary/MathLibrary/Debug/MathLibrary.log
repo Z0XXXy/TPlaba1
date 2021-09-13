@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MathLibrary.cpp
+C:\Users\Z0XXXy\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(8,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+     Создается библиотека C:\Users\Z0XXXy\source\repos\MathLibrary\Debug\MathLibrary.lib и объект C:\Users\Z0XXXy\source\repos\MathLibrary\Debug\MathLibrary.exp
+  MathLibrary.vcxproj -> C:\Users\Z0XXXy\source\repos\MathLibrary\Debug\MathLibrary.dll
